@@ -1,0 +1,28 @@
+name: ndrfn
+favicon: null
+layout_spectrum: 0.6755822063423693
+typography_spectrum: 0.6926037424709648
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.0030327984131872654
+  lightness: 0.40024460130371153
+  saturation: 0.5504937721416354
+  rhythmicContrast: 0.23972743283957243
+purpose: []
